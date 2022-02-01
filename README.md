@@ -2,12 +2,7 @@
 KCCPlus or Katniss's Cape Canaveral Plus For KSRSS is a collection of configs for missing Katniss's Cape Canaveral launch sites along with several other misc buildings for KSRSS.
 
 # Dependencies
-KSRSS
-Katniss's Cape Canaveral
-KCC For KSRSS
-Tundra's Space Center
-OSSNTR
-Kerbal Konstructs
+KSRSS, Katniss's Cape Canaveral, KCC For KSRSS, Tundra's Space Center, OSSNTR, Kerbal Konstructs
 
 # Installation Instructions
 1. Install the dependencies and any other dependencies the dependencies may have
